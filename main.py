@@ -9,3 +9,6 @@ class baby:
         self.hight = hight
         self.weight = weight
 
+baby_1 = baby('female', '60cm', '3kg')
+
+
