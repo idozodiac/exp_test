@@ -10,6 +10,7 @@ class baby:
         self.weight = weight
 
 baby_1 = baby('female', '60cm', '3kg')
+baby_2 = baby('male', '63cm', '.3kg')
 
 # new branch
 
